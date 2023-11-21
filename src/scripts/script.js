@@ -97,9 +97,9 @@ function changeWinner(square) {
 }
 
 function changesColorSquare(square1, square2, square3) {
-    square1.style.background = 'FFFF00';
-    square2.style.background = 'FFFF00';
-    square3.style.background = 'FFFF00';
+    square1.style.background = '#FFFF00';
+    square2.style.background = '#FFFF00';
+    square3.style.background = '#FFFF00';
 }
 
 function checkSequence(square1, square2, square3) {
